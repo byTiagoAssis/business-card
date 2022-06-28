@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
 * {
     font-family: 'Nunito Sans';
 }
@@ -65,5 +67,6 @@ li a {
  p {
     margin-top: 2rem;
     font-size: 2rem;
-  
+    font-family: 'Press Start 2P', cursive;
+    color: #5C5C5C;
 }
