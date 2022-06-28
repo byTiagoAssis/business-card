@@ -57,3 +57,13 @@ li a {
     color: #5C5C5C;
 }
 
+ footer {
+    padding-top: 2rem;
+    margin: 0 3rem;
+}
+
+ p {
+    margin-top: 2rem;
+    font-size: 2rem;
+  
+}
